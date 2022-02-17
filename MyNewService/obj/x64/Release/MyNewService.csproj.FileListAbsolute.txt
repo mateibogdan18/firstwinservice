@@ -1,0 +1,6 @@
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\bin\x64\Release\MyNewService.exe.config
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\bin\x64\Release\MyNewService.exe
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\obj\x64\Release\MyNewService.csprojAssemblyReference.cache
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\obj\x64\Release\MyNewService.ProjectInstaller.resources
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\obj\x64\Release\MyNewService.csproj.GenerateResource.cache
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\obj\x64\Release\MyNewService.exe

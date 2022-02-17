@@ -1,0 +1,17 @@
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.exe.config
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\obj\Debug\MyNewService.ProjectInstaller.resources
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\obj\Debug\MyNewService.csproj.GenerateResource.cache
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\obj\Debug\MyNewService.exe
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\obj\Debug\MyNewService.pdb
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\bin\Debug\MyNewService.pdb
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\obj\Debug\MyNewService.csprojAssemblyReference.cache
+C:\Users\Alessia\Desktop\proiecteincsharp\MyNewService\MyNewService\bin\Debug\MyNewService.exe.config
+C:\Users\Alessia\Desktop\proiecteincsharp\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+C:\Users\Alessia\Desktop\proiecteincsharp\MyNewService\MyNewService\bin\Debug\MyNewService.pdb
+C:\Users\Alessia\Desktop\proiecteincsharp\MyNewService\MyNewService\obj\Debug\MyNewService.csproj.AssemblyReference.cache
+C:\Users\Alessia\Desktop\proiecteincsharp\MyNewService\MyNewService\obj\Debug\MyNewService.ProjectInstaller.resources
+C:\Users\Alessia\Desktop\proiecteincsharp\MyNewService\MyNewService\obj\Debug\MyNewService.csproj.GenerateResource.cache
+C:\Users\Alessia\Desktop\proiecteincsharp\MyNewService\MyNewService\obj\Debug\MyNewService.csproj.CoreCompileInputs.cache
+C:\Users\Alessia\Desktop\proiecteincsharp\MyNewService\MyNewService\obj\Debug\MyNewService.exe
+C:\Users\Alessia\Desktop\proiecteincsharp\MyNewService\MyNewService\obj\Debug\MyNewService.pdb

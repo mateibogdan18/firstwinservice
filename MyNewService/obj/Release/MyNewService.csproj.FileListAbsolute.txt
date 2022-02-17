@@ -1,0 +1,7 @@
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\bin\Release\MyNewService.exe.config
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\bin\Release\MyNewService.exe
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\bin\Release\MyNewService.pdb
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\obj\Release\MyNewService.ProjectInstaller.resources
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\obj\Release\MyNewService.csproj.GenerateResource.cache
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\obj\Release\MyNewService.exe
+C:\Users\Bogdan\source\repos\MyNewService\MyNewService\obj\Release\MyNewService.pdb
